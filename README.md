@@ -22,7 +22,7 @@ Dont overtighten the screws as threads might get stripped.
 * hotglue
 * 4 x M3x10 Allen head bolts ([tme.eu](https://www.tme.eu/ro/en/details/m3x10_d912-a2/bolts/kraftberg/) / 13mm overall length, 5,5mm diameter head)
 * 4 x 8mm bumpons
-
+* 1 x 3 WS2812b LEDs 
 # Handwiring guide
 
 I've also put together a pretty visual handwiring guide for the VOID9, that you can browse over [here](https://victorlucachi.ro/journal/void9-wiring-guide/).
@@ -36,8 +36,8 @@ I've also put together a pretty visual handwiring guide for the VOID9, that you 
     F4      F5      F6
     
     
-    COL0    COL1    COL2
-    D1      D0      D4
+    COL0    COL1    COL2  LED Data
+    D1      D0      D4    B2
 
 # QMK Fork
 

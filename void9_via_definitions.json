@@ -2,7 +2,7 @@
     "name": "VOID9",
     "vendorId": "0xF055",
     "productId": "0x3534",
-    "lighting": "none",
+    "lighting": "qmk_rgblight",
     "matrix": {"rows": 3, "cols": 3},
     "layouts": {
       "keymap":
